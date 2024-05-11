@@ -1,0 +1,10 @@
+﻿**code not fully functional**
+
+
+Run this code in r studio and is formatted as a notebook
+
+
+The first part of this code runs benchmarking assessments to test how long it takes code to run using different methods. First few blocks should work and print time while others may run but will not print final times.
+
+
+The second part of this code will be able to count the number of “T’s” in sequence data and print it. Does not currently work as intended.
